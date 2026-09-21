@@ -55179,5 +55179,12 @@
     "author": "Parth",
     "description": "Suggests or applies a tag to the current note using TypeSafe's Jev model and your vault's existing tags. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "parthsidpara/obsidian-auto-tagger-jev"
+  },
+  {
+    "id": "para-navigator",
+    "name": "PARA Navigator",
+    "author": "arthuratlas",
+    "description": "PARA-based sidebar navigator with per-folder Bases tables and statistics dashboards.",
+    "repo": "HJXArthurAtlas/PARA-Navigator"
   }
 ]
